@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Controlador</title>
+</head>
+<body>
+    <h1>Controlador</h1>
+    <p>Este archivo gestiona la lógica del sistema.</p>
+</body>
+</html>

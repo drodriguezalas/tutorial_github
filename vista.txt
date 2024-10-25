@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Vista</title>
+</head>
+<body>
+    <h1>Vista</h1>
+    <p>Este archivo muestra la interfaz al usuario.</p>
+    <form>
+        <label for="correo">Correo:</label>
+        <input type="email" id="correo" name="correo" required>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
