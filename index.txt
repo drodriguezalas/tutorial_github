@@ -10,6 +10,11 @@
     <a href="controlador.html">Ver Controlador</a>
     <a href="modelo.html">Ver Modelo</a>
 	
+	<!-- Una buena práctica ahora que usamos versionamiento (github) es utilizar comentarios 
+		Los comentarios deberían incluir qué es el cambio que se realizó, una explicación de ser necesaria
+		y "firma" de la persona que realizó el cambio.
+		Por Daniel Rodríguez @drodriguezalas.
+	-->
 	<p> Este es el primer cambio que voy a hacer, lo voy a hacer en mi branch "dani" y luego lo voy a agregar a master</p>
 </body>
 </html>
