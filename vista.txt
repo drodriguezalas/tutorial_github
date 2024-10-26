@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Vista</title>
-</head>
+<header>
+    <h1>A heading here</h1>
+    <p>Por Daniel R.</p> <--cambié el header por uno propio. Por Daniel Rodríguez @drodriguezalas-->
+    <p>Some additional information here</p>
+  </header>
 <body>
     <h1>Vista</h1>
     <p>Este archivo muestra la interfaz al usuario.</p>
