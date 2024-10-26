@@ -3,7 +3,7 @@
 <header>
     <h1>A heading here</h1>
     <p>Por Daniel R.</p> <--cambié el header por uno propio. Por Daniel Rodríguez @drodriguezalas-->
-    <p>Some additional information here</p>
+    <p>Realizado por grupo Turing turip turip </p>
   </header>
 <body>
     <h1>Vista</h1>
