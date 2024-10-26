@@ -9,3 +9,5 @@
     <p>Este archivo representa los datos del sistema.</p>
 </body>
 </html>
+<input value="Aceptar" type="submit"/>
+// Se agrego boton de aceptar por Genesis Barrantes @Genebarrantes
