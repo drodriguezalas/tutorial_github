@@ -8,5 +8,17 @@
     <h1>Controlador</h1>
     <p>Este archivo gestiona la lógica del sistema.</p>
     <button>
+   
+public class AccountController : Controller
+{
+    private ApplicationDbContext db = new ApplicationDbContext();
+
+    // GET: Login (Muestra la vista de login)
+    [HttpGet]
+    public ActionResult Login()
+    {
+        return View();
+    }
+
 </body>
 </html>
