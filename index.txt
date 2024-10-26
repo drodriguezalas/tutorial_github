@@ -28,5 +28,10 @@
 	<p> Boton boton </p>
 	<button>
 
+	<-- Se agrego referencia a otra página
+	    Por Jimena Morera @Jime-1
+    -->
+	<p><a href="http://www.google.com">Ir a Google</a></p>
+
 </body>
 </html>
